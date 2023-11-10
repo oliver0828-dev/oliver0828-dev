@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Swift and C++ 
-Link to [Oliver's Programming Life](https://ritzy-anise-015.notion.site/Oliver-s-Programming-Life-fd04c533401b481a8a61e802f5ae59a8) 
+
+### Link to [Oliver's Programming Life](https://ritzy-anise-015.notion.site/Oliver-s-Programming-Life-fd04c533401b481a8a61e802f5ae59a8) 
 
 
 <!--
