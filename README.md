@@ -1,15 +1,30 @@
-### Hi there 👋
-🌱 I’m currently learning Swift and C++ 
-### My Daily Blog [Oliver's Programming Life](https://ritzy-anise-015.notion.site/Oliver-s-Programming-Life-fd04c533401b481a8a61e802f5ae59a8) 
-Contributions: 
-### School Journalism: [Jets Flyover](https://jetsflyover.com/staff_name/oliver-park/)
-### [Medium](https://medium.com/@oliverco0828)
+### Hi there! 👋
 
-Contact Me: 
-### 📫 Mail [oliverco0828@gmail.com](oliverco0828@gmail.com) 
-### 📷 IG [@olliba.png](https://www.instagram.com/olliba.png/) 
+Welcome to my GitHub profile. I'm passionate about learning and currently immersed in the worlds of Swift and C++. Feel free to explore the projects I'm working on, and don't hesitate to reach out if you have any questions or suggestions.
 
+### 🌱 Learning Journey
 
+- Currently mastering Swift and C++ to enhance my programming prowess.
+
+### 📝 My Daily Blog
+
+Check out my daily blog, where I share insights into my programming journey and experiences: [Oliver's Programming Life](https://ritzy-anise-015.notion.site/Oliver-s-Programming-Life-fd04c533401b481a8a61e802f5ae59a8)
+
+### 🚀 Contributions
+
+- **School Journalism:** Explore my articles on [Jets Flyover](https://jetsflyover.com/staff_name/oliver-park/), where I contribute to school journalism.
+
+- **Medium:** Find more of my thoughts and insights on [Medium](https://medium.com/@oliverco0828).
+
+### 📬 Contact Me
+
+Feel free to get in touch:
+
+- **Email:** [oliverco0828@gmail.com](mailto:oliverco0828@gmail.com)
+
+- **Instagram:** Connect with me on [@olliba.png](https://www.instagram.com/olliba.png/) for a more visual glimpse into my coding journey.
+
+Let's code, learn, and grow together! 🚀
 <!--
 **oliver0828-dev/oliver0828-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
