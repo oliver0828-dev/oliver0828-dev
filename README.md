@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm passionate about learning and currently immers
 
 ### 📝 My Daily Blog
 
-Check out my daily blog, where I share insights into my programming journey and experiences: [Oliver's Programming Life](https://ritzy-anise-015.notion.site/Oliver-s-Programming-Life-fd04c533401b481a8a61e802f5ae59a8)
+Check out my daily blog, where I share insights into my programming journey and experiences: [Oliver's Computer Notion](https://ollie-dev.notion.site/Oliver-s-Computer-Notion-fd04c533401b481a8a61e802f5ae59a8)
 
 ### 🚀 Contributions
 
