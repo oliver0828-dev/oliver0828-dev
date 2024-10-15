@@ -6,6 +6,8 @@ Welcome to my GitHub profile. I'm passionate about learning and currently immers
 
 - Currently mastering Swift and C++ to enhance my programming prowess.
 
+### [Personal Website](olivergpark.com)
+
 ### 📝 My Daily Blog
 
 Check out my daily blog, where I share insights into my programming journey and experiences: [Oliver's Computer Notion](https://ollie-dev.notion.site/Oliver-s-Computer-Notion-fd04c533401b481a8a61e802f5ae59a8)
