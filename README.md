@@ -12,6 +12,8 @@ Welcome to my GitHub profile. I'm passionate about learning and currently immers
 
 Check out my daily blog, where I share insights into my programming journey and experiences: [Oliver's Computer Notion](https://ollie-dev.notion.site/Oliver-s-Computer-Notion-fd04c533401b481a8a61e802f5ae59a8)
 
+Check out my website: [Oliver's Website](olivergpark.com)
+
 ### 🚀 Contributions
 
 - **School Journalism:** Explore my articles on [Jets Flyover](https://jetsflyover.com/staff_name/oliver-park/), where I contribute to school journalism.
