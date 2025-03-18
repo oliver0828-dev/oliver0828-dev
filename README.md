@@ -4,6 +4,7 @@ Welcome to my GitHub profile. I'm passionate about learning and currently immers
 
 ### 🌱 Learning Journey
 Proficient with Swift & C++
+
 Intermediate with Python
 
 ### 📝 My Daily Blog
