@@ -3,10 +3,8 @@
 Welcome to my GitHub profile. I'm passionate about learning and currently immersed in the worlds of Swift and C++. Feel free to explore the projects I'm working on, and don't hesitate to reach out if you have any questions or suggestions.
 
 ### 🌱 Learning Journey
-
-- Currently mastering Swift and C++ to enhance my programming prowess.
-
-###  [🖥️ Personal Website](https://www.olivergpark.com)
+Proficient with Swift & C++
+Intermediate with Python
 
 ### 📝 My Daily Blog
 
