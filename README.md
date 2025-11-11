@@ -1,44 +1,35 @@
-### Hi there! 👋
+## 💻 Oliver's GitHub Profile: Swift & C++ Enthusiast
 
-Welcome to my GitHub profile. I'm passionate about learning and currently immersed in the worlds of Swift and C++. Feel free to explore the projects I'm working on, and don't hesitate to reach out if you have any questions or suggestions.
+Hi there! 👋 Welcome to my corner of the web. I'm **Oliver**, a passionate developer deeply immersed in the world of **systems programming** and **mobile development**. I thrive on learning and building, and I'm currently focused on mastering **Swift** and **C++**.
 
-### 🌱 Learning Journey
-Proficient with Swift & C++
+Feel free to explore the projects below, and let's connect!
 
-Intermediate with Python
+---
 
-### 📝 My Daily Blog
+### 💼 Freelance & Collaboration
 
-Check out my daily blog, where I share insights into my programming journey and experiences: [Oliver's Computer Notion](https://ollie-dev.notion.site/Oliver-s-Computer-Notion-fd04c533401b481a8a61e802f5ae59a8)
+**Interested in commissioning a Swift, C++, or Python project?**
 
-Check out my website: [Oliver's Website](olivergpark.com)
+I am open to freelance work. Please reach out to discuss your project!
+📧 Email: [oliverco0828@gmail.com](mailto:oliverco0828@gmail.com)
 
-### 🚀 Contributions
+---
 
-- **School Journalism:** Explore my articles on [Jets Flyover](https://jetsflyover.com/staff_name/oliver-park/), where I contribute to school journalism.
+### 🌱 Current Tech Stack & Learning Journey
 
-- **Medium:** Find more of my thoughts and insights on [Medium](https://medium.com/@oliverco0828).
+I'm committed to continuous learning. Here's a snapshot of the languages and technologies I'm working with:
 
-### 📬 Contact Me
+* **⚡ Proficient:** **Swift** (iOS/macOS development) & **C++** (systems, high-performance computing)
+* **💡 Intermediate:** **Python** (scripting, data processing)
 
-Feel free to get in touch:
+*Looking to collaborate on a C++ or Swift project? Let me know!*
 
-- **Email:** [oliverco0828@gmail.com](mailto:oliverco0828@gmail.com)
+### 📊 Weekly Coding Activity
 
-- **Instagram:** Connect with me on [@olliba.png](https://www.instagram.com/olliba.png/) for a more visual glimpse into my coding journey.
-
-Let's code, learn, and grow together! 🚀
-<!--
-**oliver0828-dev/oliver0828-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**This week I spent my time on:**
+```txt
+Swift           8 hrs 5 mins     ██████████████████▓░░░░░░    75.28 %
+C++             2 hrs 27 mins    █████▓░░░░░░░░░░░░░░░░░░░    22.91 %
+Other           4 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    00.66 %
+Markdown        3 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    00.50 %
+XML             3 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    00.48 %
